@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Jatin-Mehra119<br>👀 I’m interested in Data Analysis, Machine Learning and Python Coding.<br>🌱 I’m currently doing Master's Degree in Data Science.<br>💞️ I’m looking to collaborate on Data Science Projects.<br>📫 How to reach me email-jatinmehra119@gmail.ccom<br>😄 Pronouns: He<br>🏢 I'm currently employed as Team Operation member in INDIA TODAY.<br>🌐portfolio-[Website](https://jatin-mehra119.github.io/Profile/)
+👋 Hi, I’m @Jatin-Mehra119<br>👀 I’m interested in Data Analysis, Machine Learning and Python Coding.<br>🌱 I’m currently doing Master's Degree in Data Science.<br>💞️ I’m looking to collaborate on Data Science Projects.<br>📫 How to reach me email-jatinmehra119@gmail.ccom<br>😄 Pronouns: He<br>🏢 I'm currently employed as Team Operation member in INDIA TODAY.<br>🌐portfolio-[Website](https://jatin-mehra119.github.io)
 
 
 ## 🌐 Socials:
